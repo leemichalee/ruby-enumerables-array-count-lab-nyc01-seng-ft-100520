@@ -5,6 +5,7 @@ def count_strings(array)
     if element.class == String
       total_strings += 1 
     end
+  end
 end
 
 def count_empty_strings(array)
